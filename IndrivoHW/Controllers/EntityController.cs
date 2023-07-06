@@ -34,6 +34,7 @@ public class EntityController : ControllerBase
         return Ok(entity);
     }
 
+
     [HttpPost]
     public ActionResult<Entity> CreateEntity(Entity entity)
     {

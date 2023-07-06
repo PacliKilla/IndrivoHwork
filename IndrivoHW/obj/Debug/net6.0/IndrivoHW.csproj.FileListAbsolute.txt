@@ -181,3 +181,5 @@ C:\temp\New folder (3)\IndrivoHW2\IndrivoHW\bin\Debug\net6.0\Microsoft.Web.Infra
 C:\temp\New folder (3)\IndrivoHW2\IndrivoHW\bin\Debug\net6.0\Swashbuckle.Core.dll
 C:\temp\New folder (3)\IndrivoHW2\IndrivoHW\bin\Debug\net6.0\WebActivatorEx.dll
 C:\temp\New folder (3)\IndrivoHW2\IndrivoHW\bin\Debug\net6.0\Data\data.json
+C:\temp\New folder (3)\IndrivoHW2\IndrivoHW\bin\Debug\net6.0\Data\classifiers.json
+C:\temp\New folder (3)\IndrivoHW2\IndrivoHW\bin\Debug\net6.0\Data\entities.json

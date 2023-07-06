@@ -7,39 +7,30 @@ using System.Text.Json;
 
 public static class JsonDataAccess
 {
-    private const string FilePath = "Data/data.json";
+    private const string EntitiesFilePath = "Data/entities.json";
+    private const string ClassifiersFilePath = "Data/classifiers.json";
 
     public static List<Entity> GetEntities()
     {
-        var json = File.ReadAllText(FilePath);
-        var data = JsonSerializer.Deserialize<Data>(json);
-        return data?.Entities ?? new List<Entity>();
+        var json = File.ReadAllText(EntitiesFilePath);
+        return JsonSerializer.Deserialize<List<Entity>>(json) ?? new List<Entity>();
     }
 
     public static List<Classifier> GetClassifiers()
     {
-        var json = File.ReadAllText(FilePath);
-        var data = JsonSerializer.Deserialize<Data>(json);
-        return data?.Classifiers ?? new List<Classifier>();
+        var json = File.ReadAllText(ClassifiersFilePath);
+        return JsonSerializer.Deserialize<List<Classifier>>(json) ?? new List<Classifier>();
     }
 
     public static void SaveEntities(List<Entity> entities)
     {
-        var data = new Data { Entities = entities, Classifiers = GetClassifiers() };
-        var json = JsonSerializer.Serialize(data, new JsonSerializerOptions { WriteIndented = true });
-        File.WriteAllText(FilePath, json);
+        var json = JsonSerializer.Serialize(entities, new JsonSerializerOptions { WriteIndented = true });
+        File.WriteAllText(EntitiesFilePath, json);
     }
 
     public static void SaveClassifiers(List<Classifier> classifiers)
     {
-        var data = new Data { Entities = GetEntities(), Classifiers = classifiers };
-        var json = JsonSerializer.Serialize(data, new JsonSerializerOptions { WriteIndented = true });
-        File.WriteAllText(FilePath, json);
-    }
-
-    private class Data
-    {
-        public List<Entity> Entities { get; set; }
-        public List<Classifier> Classifiers { get; set; }
+        var json = JsonSerializer.Serialize(classifiers, new JsonSerializerOptions { WriteIndented = true });
+        File.WriteAllText(ClassifiersFilePath, json);
     }
 }
