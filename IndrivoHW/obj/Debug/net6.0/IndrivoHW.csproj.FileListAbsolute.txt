@@ -1,0 +1,183 @@
+C:\temp\IndrivoHW\IndrivoHW\bin\Debug\net6.0\appsettings.Development.json
+C:\temp\IndrivoHW\IndrivoHW\bin\Debug\net6.0\appsettings.json
+C:\temp\IndrivoHW\IndrivoHW\bin\Debug\net6.0\IndrivoHW.exe
+C:\temp\IndrivoHW\IndrivoHW\bin\Debug\net6.0\IndrivoHW.deps.json
+C:\temp\IndrivoHW\IndrivoHW\bin\Debug\net6.0\IndrivoHW.runtimeconfig.json
+C:\temp\IndrivoHW\IndrivoHW\bin\Debug\net6.0\IndrivoHW.dll
+C:\temp\IndrivoHW\IndrivoHW\bin\Debug\net6.0\IndrivoHW.pdb
+C:\temp\IndrivoHW\IndrivoHW\bin\Debug\net6.0\Humanizer.dll
+C:\temp\IndrivoHW\IndrivoHW\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\temp\IndrivoHW\IndrivoHW\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\temp\IndrivoHW\IndrivoHW\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\temp\IndrivoHW\IndrivoHW\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\temp\IndrivoHW\IndrivoHW\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\temp\IndrivoHW\IndrivoHW\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\temp\IndrivoHW\IndrivoHW\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\temp\IndrivoHW\IndrivoHW\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\temp\IndrivoHW\IndrivoHW\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\temp\IndrivoHW\IndrivoHW\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\temp\IndrivoHW\IndrivoHW\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\temp\IndrivoHW\IndrivoHW\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\temp\IndrivoHW\IndrivoHW\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\temp\IndrivoHW\IndrivoHW\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\temp\IndrivoHW\IndrivoHW\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\temp\IndrivoHW\IndrivoHW\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\temp\IndrivoHW\IndrivoHW\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\temp\IndrivoHW\IndrivoHW\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\temp\IndrivoHW\IndrivoHW\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\temp\IndrivoHW\IndrivoHW\bin\Debug\net6.0\System.CodeDom.dll
+C:\temp\IndrivoHW\IndrivoHW\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\temp\IndrivoHW\IndrivoHW\bin\Debug\net6.0\System.Text.Json.dll
+C:\temp\IndrivoHW\IndrivoHW\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\temp\IndrivoHW\IndrivoHW\obj\Debug\net6.0\IndrivoHW.csproj.AssemblyReference.cache
+C:\temp\IndrivoHW\IndrivoHW\obj\Debug\net6.0\IndrivoHW.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\IndrivoHW\IndrivoHW\obj\Debug\net6.0\IndrivoHW.AssemblyInfoInputs.cache
+C:\temp\IndrivoHW\IndrivoHW\obj\Debug\net6.0\IndrivoHW.AssemblyInfo.cs
+C:\temp\IndrivoHW\IndrivoHW\obj\Debug\net6.0\IndrivoHW.csproj.CoreCompileInputs.cache
+C:\temp\IndrivoHW\IndrivoHW\obj\Debug\net6.0\IndrivoHW.MvcApplicationPartsAssemblyInfo.cs
+C:\temp\IndrivoHW\IndrivoHW\obj\Debug\net6.0\IndrivoHW.MvcApplicationPartsAssemblyInfo.cache
+C:\temp\IndrivoHW\IndrivoHW\obj\Debug\net6.0\staticwebassets\msbuild.IndrivoHW.Microsoft.AspNetCore.StaticWebAssets.props
+C:\temp\IndrivoHW\IndrivoHW\obj\Debug\net6.0\staticwebassets\msbuild.build.IndrivoHW.props
+C:\temp\IndrivoHW\IndrivoHW\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.IndrivoHW.props
+C:\temp\IndrivoHW\IndrivoHW\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.IndrivoHW.props
+C:\temp\IndrivoHW\IndrivoHW\obj\Debug\net6.0\staticwebassets.pack.json
+C:\temp\IndrivoHW\IndrivoHW\obj\Debug\net6.0\staticwebassets.build.json
+C:\temp\IndrivoHW\IndrivoHW\obj\Debug\net6.0\staticwebassets.development.json
+C:\temp\IndrivoHW\IndrivoHW\obj\Debug\net6.0\scopedcss\bundle\IndrivoHW.styles.css
+C:\temp\IndrivoHW\IndrivoHW\obj\Debug\net6.0\IndrivoHW.csproj.CopyComplete
+C:\temp\IndrivoHW\IndrivoHW\obj\Debug\net6.0\IndrivoHW.dll
+C:\temp\IndrivoHW\IndrivoHW\obj\Debug\net6.0\refint\IndrivoHW.dll
+C:\temp\IndrivoHW\IndrivoHW\obj\Debug\net6.0\IndrivoHW.pdb
+C:\temp\IndrivoHW\IndrivoHW\obj\Debug\net6.0\IndrivoHW.genruntimeconfig.cache
+C:\temp\IndrivoHW\IndrivoHW\obj\Debug\net6.0\ref\IndrivoHW.dll
+C:\temp\IndrivoHW\IndrivoHW\bin\Debug\net6.0\Azure.Core.dll
+C:\temp\IndrivoHW\IndrivoHW\bin\Debug\net6.0\Azure.Identity.dll
+C:\temp\IndrivoHW\IndrivoHW\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\temp\IndrivoHW\IndrivoHW\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\temp\IndrivoHW\IndrivoHW\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\temp\IndrivoHW\IndrivoHW\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\temp\IndrivoHW\IndrivoHW\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\temp\IndrivoHW\IndrivoHW\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\temp\IndrivoHW\IndrivoHW\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\temp\IndrivoHW\IndrivoHW\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\temp\IndrivoHW\IndrivoHW\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\temp\IndrivoHW\IndrivoHW\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\temp\IndrivoHW\IndrivoHW\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\temp\IndrivoHW\IndrivoHW\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\temp\IndrivoHW\IndrivoHW\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\temp\IndrivoHW\IndrivoHW\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\temp\IndrivoHW\IndrivoHW\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\temp\IndrivoHW\IndrivoHW\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\temp\IndrivoHW\IndrivoHW\bin\Debug\net6.0\System.Memory.Data.dll
+C:\temp\IndrivoHW\IndrivoHW\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\temp\IndrivoHW\IndrivoHW\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\temp\IndrivoHW\IndrivoHW\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\temp\IndrivoHW\IndrivoHW\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\temp\IndrivoHW\IndrivoHW\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\temp\IndrivoHW\IndrivoHW\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\temp\IndrivoHW\IndrivoHW\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\temp\IndrivoHW\IndrivoHW\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\temp\IndrivoHW\IndrivoHW\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\temp\IndrivoHW\IndrivoHW\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\temp\IndrivoHW\IndrivoHW\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\temp\IndrivoHW\IndrivoHW\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\temp\IndrivoHW\IndrivoHW\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\temp\IndrivoHW\IndrivoHW\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\temp\IndrivoHW\IndrivoHW\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\temp\IndrivoHW\IndrivoHW\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\temp\New folder (3)\IndrivoHW2\IndrivoHW\obj\Debug\net6.0\IndrivoHW.csproj.AssemblyReference.cache
+C:\temp\New folder (3)\IndrivoHW2\IndrivoHW\obj\Debug\net6.0\IndrivoHW.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\New folder (3)\IndrivoHW2\IndrivoHW\obj\Debug\net6.0\IndrivoHW.AssemblyInfoInputs.cache
+C:\temp\New folder (3)\IndrivoHW2\IndrivoHW\obj\Debug\net6.0\IndrivoHW.AssemblyInfo.cs
+C:\temp\New folder (3)\IndrivoHW2\IndrivoHW\obj\Debug\net6.0\IndrivoHW.csproj.CoreCompileInputs.cache
+C:\temp\New folder (3)\IndrivoHW2\IndrivoHW\obj\Debug\net6.0\IndrivoHW.MvcApplicationPartsAssemblyInfo.cs
+C:\temp\New folder (3)\IndrivoHW2\IndrivoHW\obj\Debug\net6.0\IndrivoHW.MvcApplicationPartsAssemblyInfo.cache
+C:\temp\New folder (3)\IndrivoHW2\IndrivoHW\obj\Debug\net6.0\IndrivoHW.dll
+C:\temp\New folder (3)\IndrivoHW2\IndrivoHW\obj\Debug\net6.0\refint\IndrivoHW.dll
+C:\temp\New folder (3)\IndrivoHW2\IndrivoHW\obj\Debug\net6.0\IndrivoHW.pdb
+C:\temp\New folder (3)\IndrivoHW2\IndrivoHW\bin\Debug\net6.0\appsettings.Development.json
+C:\temp\New folder (3)\IndrivoHW2\IndrivoHW\bin\Debug\net6.0\appsettings.json
+C:\temp\New folder (3)\IndrivoHW2\IndrivoHW\bin\Debug\net6.0\IndrivoHW.exe
+C:\temp\New folder (3)\IndrivoHW2\IndrivoHW\bin\Debug\net6.0\IndrivoHW.deps.json
+C:\temp\New folder (3)\IndrivoHW2\IndrivoHW\bin\Debug\net6.0\IndrivoHW.runtimeconfig.json
+C:\temp\New folder (3)\IndrivoHW2\IndrivoHW\bin\Debug\net6.0\IndrivoHW.dll
+C:\temp\New folder (3)\IndrivoHW2\IndrivoHW\bin\Debug\net6.0\IndrivoHW.pdb
+C:\temp\New folder (3)\IndrivoHW2\IndrivoHW\bin\Debug\net6.0\Azure.Core.dll
+C:\temp\New folder (3)\IndrivoHW2\IndrivoHW\bin\Debug\net6.0\Azure.Identity.dll
+C:\temp\New folder (3)\IndrivoHW2\IndrivoHW\bin\Debug\net6.0\Humanizer.dll
+C:\temp\New folder (3)\IndrivoHW2\IndrivoHW\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\temp\New folder (3)\IndrivoHW2\IndrivoHW\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\temp\New folder (3)\IndrivoHW2\IndrivoHW\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\temp\New folder (3)\IndrivoHW2\IndrivoHW\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\temp\New folder (3)\IndrivoHW2\IndrivoHW\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\temp\New folder (3)\IndrivoHW2\IndrivoHW\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\temp\New folder (3)\IndrivoHW2\IndrivoHW\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\temp\New folder (3)\IndrivoHW2\IndrivoHW\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\temp\New folder (3)\IndrivoHW2\IndrivoHW\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\temp\New folder (3)\IndrivoHW2\IndrivoHW\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\temp\New folder (3)\IndrivoHW2\IndrivoHW\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\temp\New folder (3)\IndrivoHW2\IndrivoHW\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\temp\New folder (3)\IndrivoHW2\IndrivoHW\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\temp\New folder (3)\IndrivoHW2\IndrivoHW\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\temp\New folder (3)\IndrivoHW2\IndrivoHW\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\temp\New folder (3)\IndrivoHW2\IndrivoHW\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\temp\New folder (3)\IndrivoHW2\IndrivoHW\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\temp\New folder (3)\IndrivoHW2\IndrivoHW\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\temp\New folder (3)\IndrivoHW2\IndrivoHW\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\temp\New folder (3)\IndrivoHW2\IndrivoHW\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\temp\New folder (3)\IndrivoHW2\IndrivoHW\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\temp\New folder (3)\IndrivoHW2\IndrivoHW\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\temp\New folder (3)\IndrivoHW2\IndrivoHW\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\temp\New folder (3)\IndrivoHW2\IndrivoHW\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\temp\New folder (3)\IndrivoHW2\IndrivoHW\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\temp\New folder (3)\IndrivoHW2\IndrivoHW\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\temp\New folder (3)\IndrivoHW2\IndrivoHW\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\temp\New folder (3)\IndrivoHW2\IndrivoHW\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\temp\New folder (3)\IndrivoHW2\IndrivoHW\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\temp\New folder (3)\IndrivoHW2\IndrivoHW\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\temp\New folder (3)\IndrivoHW2\IndrivoHW\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\temp\New folder (3)\IndrivoHW2\IndrivoHW\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\temp\New folder (3)\IndrivoHW2\IndrivoHW\bin\Debug\net6.0\System.CodeDom.dll
+C:\temp\New folder (3)\IndrivoHW2\IndrivoHW\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\temp\New folder (3)\IndrivoHW2\IndrivoHW\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\temp\New folder (3)\IndrivoHW2\IndrivoHW\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\temp\New folder (3)\IndrivoHW2\IndrivoHW\bin\Debug\net6.0\System.Memory.Data.dll
+C:\temp\New folder (3)\IndrivoHW2\IndrivoHW\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\temp\New folder (3)\IndrivoHW2\IndrivoHW\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\temp\New folder (3)\IndrivoHW2\IndrivoHW\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\temp\New folder (3)\IndrivoHW2\IndrivoHW\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\temp\New folder (3)\IndrivoHW2\IndrivoHW\bin\Debug\net6.0\System.Text.Json.dll
+C:\temp\New folder (3)\IndrivoHW2\IndrivoHW\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\temp\New folder (3)\IndrivoHW2\IndrivoHW\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\temp\New folder (3)\IndrivoHW2\IndrivoHW\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\temp\New folder (3)\IndrivoHW2\IndrivoHW\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\temp\New folder (3)\IndrivoHW2\IndrivoHW\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\temp\New folder (3)\IndrivoHW2\IndrivoHW\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\temp\New folder (3)\IndrivoHW2\IndrivoHW\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\temp\New folder (3)\IndrivoHW2\IndrivoHW\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\temp\New folder (3)\IndrivoHW2\IndrivoHW\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\temp\New folder (3)\IndrivoHW2\IndrivoHW\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\temp\New folder (3)\IndrivoHW2\IndrivoHW\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\temp\New folder (3)\IndrivoHW2\IndrivoHW\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\temp\New folder (3)\IndrivoHW2\IndrivoHW\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\temp\New folder (3)\IndrivoHW2\IndrivoHW\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\temp\New folder (3)\IndrivoHW2\IndrivoHW\obj\Debug\net6.0\staticwebassets\msbuild.IndrivoHW.Microsoft.AspNetCore.StaticWebAssets.props
+C:\temp\New folder (3)\IndrivoHW2\IndrivoHW\obj\Debug\net6.0\staticwebassets\msbuild.build.IndrivoHW.props
+C:\temp\New folder (3)\IndrivoHW2\IndrivoHW\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.IndrivoHW.props
+C:\temp\New folder (3)\IndrivoHW2\IndrivoHW\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.IndrivoHW.props
+C:\temp\New folder (3)\IndrivoHW2\IndrivoHW\obj\Debug\net6.0\staticwebassets.pack.json
+C:\temp\New folder (3)\IndrivoHW2\IndrivoHW\obj\Debug\net6.0\staticwebassets.build.json
+C:\temp\New folder (3)\IndrivoHW2\IndrivoHW\obj\Debug\net6.0\staticwebassets.development.json
+C:\temp\New folder (3)\IndrivoHW2\IndrivoHW\obj\Debug\net6.0\scopedcss\bundle\IndrivoHW.styles.css
+C:\temp\New folder (3)\IndrivoHW2\IndrivoHW\obj\Debug\net6.0\IndrivoHW.csproj.CopyComplete
+C:\temp\New folder (3)\IndrivoHW2\IndrivoHW\obj\Debug\net6.0\IndrivoHW.genruntimeconfig.cache
+C:\temp\New folder (3)\IndrivoHW2\IndrivoHW\obj\Debug\net6.0\ref\IndrivoHW.dll
+C:\temp\New folder (3)\IndrivoHW2\IndrivoHW\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\temp\New folder (3)\IndrivoHW2\IndrivoHW\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\temp\New folder (3)\IndrivoHW2\IndrivoHW\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+C:\temp\New folder (3)\IndrivoHW2\IndrivoHW\bin\Debug\net6.0\System.Web.Http.dll
+C:\temp\New folder (3)\IndrivoHW2\IndrivoHW\bin\Debug\net6.0\System.Web.Http.WebHost.dll
+C:\temp\New folder (3)\IndrivoHW2\IndrivoHW\bin\Debug\net6.0\Microsoft.Web.Infrastructure.dll
+C:\temp\New folder (3)\IndrivoHW2\IndrivoHW\bin\Debug\net6.0\Swashbuckle.Core.dll
+C:\temp\New folder (3)\IndrivoHW2\IndrivoHW\bin\Debug\net6.0\WebActivatorEx.dll
+C:\temp\New folder (3)\IndrivoHW2\IndrivoHW\bin\Debug\net6.0\Data\data.json
