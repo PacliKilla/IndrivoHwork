@@ -1,7 +1,7 @@
 # IndrivoHwork
 
 ## Description
-The project is a C# API that implements CRUD operations for JSON data with a static structure. It allows managing entities and classifiers, with a one-to-one relationship between them. Entities represent different items, while classifiers categorize these items. The API provides endpoints to add, read, update, and delete entities and classifiers, along with the ability to retrieve entities with their corresponding classifiers.
+The project is a C# API that implements CRUD operations for JSON data with a static structure. It allows managing entities and classifiers, with a one-to-one relationship between them. Entities represent different items, while classifiers categorize these items. The API provides endpoints to add, read, update, and delete entities and classifiers.  
 
 ## Tools and Technologies Used
 Language: C#  
